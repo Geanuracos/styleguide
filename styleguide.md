@@ -37,7 +37,12 @@ Log all relevant external contacts in Prosperworks, so our monthly tracking repo
 Each client or potential client should have one main point of contact with CityGrows, with a few major exceptions (Santa Monica).  Check prosperworks before conducting any cold outreach to a new contact or following up with a warm contact to see if there is any existing history with that person or organization.
 If you have something to share that you think the whole company would be interested in, but you don’t need a response from anyone, post it to team.citygro.ws
 Email signatures should have your mobile phone number and the company twitter handle included
-We use Dropbox as our storage system - anything permanent that needs to be kept/ memorialized (e.g. legal docs, contracts, major contract deliverables) and we use google docs to collaborate on our working docs.  Story any CityGrows-related documents and work product on the google drive - and as we get bigger we’ll probably need an organizing principle for those documents.
+
+### File storage
+
+- We use Dropbox as our storage system - anything permanent that isn't expected to change much / doesn't require collaboration
+- We use Google docs to collaborate on our short-term working docs, drafts, and personal work.  Store any CityGrows-related documents and work product on the Google Drive - and as we get bigger we’ll probably need an organizing principle for those documents.
+- We use GitHub to store any company-wide documents that will continue to evolve over time, and which require collaborative input from the whole team
 
 ## Collaboration/ management
 
