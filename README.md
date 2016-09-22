@@ -1,2 +1,0 @@
-# styleguide
-CityGrows Style Guide
