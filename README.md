@@ -44,12 +44,29 @@ Email signatures should have your mobile phone number and the company twitter ha
 - We use Google docs to collaborate on our short-term working docs, drafts, and personal work.  Store any CityGrows-related documents and work product on the Google Drive - and as we get bigger we’ll probably need an organizing principle for those documents.
 - We use GitHub to store any company-wide documents that will continue to evolve over time, and which require collaborative input from the whole team
 
-## Collaboration/ management
+## Collaboration / management
+### Standup Meetings
+Standup meetings happen twice each week: Monday @ 2pm and Wednesday at 10am
+- Standup takes place in [this Google Hangout room](https://hangouts.google.com/hangouts/_/citygro.ws/citygrows)
+- If you can make it, great, see you there!
+- Don't rearrange your schedule for standup. If you cannot make it, don't worry about it. Just remember to:
+  - Let us know not to wait for you
+  - Share a text standup on Slack
 
-We value the standup/ retro team communication model.  Do your best to be attend team meetings.
+### Retros
+Retro happens at 3pm on Fridays. During retro, we discuss things that happened over the past week
+- What went well
+- What needs improvement
+- Action items
+
+As with standup, if you are not able to make retro, please let the team know not to wait for you.
+
+### Check-ins
 Everyone should try and have at least one 1:1 conversation with your manager (Catherine with Stephen, Vyki with Catherine, Stephen with an advisor who will be helpful)
 We love hanging out and coworking in person, but we believe that our team can function effectively remotely.
 Our team members are recruited because of their ability to work independently with integrity and effectiveness. We don’t track hours, we track deliverables. How and when you work s up to you, as long as deliverables are met in a timely manner and any potential issues, questions, or problems are promptly brought to the team’s attention.
+
+## General dos and don'ts
 Don’t assign “microtasks” to other people. It just makes everyone less productive.
 BAD: “Hey did you book that meeting with Emily?” “No, I don’t have her email. Can you send it to me?”
 GOOD: “Hey did you book that meeting with Emily?” “No, but I’m on it! Where can I find her email?”
