@@ -81,15 +81,12 @@ Govtech blog, Medium, and social media accounts: Communication with the communit
 - We use Keynote to create presentations, and Icloud to collaborate on them
 - We use GitHub to store any company-wide documents that will continue to evolve over time, and which require collaborative input from the whole team
 
-## Tools:
-Prosperworks - sales and fundraising prospect tracking
-Postfact.io - retro
-Pivotal tracker - development pipeline
-Email hunter - sales prospecting
-Hootsuite - social media tracking and reporting
-Google analytics - site and campaign performance
-Intercom - acquisition tracking, auto-response and chat functions
-
-
+## Productivity:
+Prosperworks - Sales and fundraising prospect tracking
+Trello - Retro and ToDo's
+Pivotal tracker - Development pipeline
+Hootsuite - Social media tracking and reporting
+Google analytics - Site and campaign performance
+Intercom - Acquisition tracking, auto-response and chat functions
 
 
