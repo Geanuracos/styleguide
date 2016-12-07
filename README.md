@@ -39,15 +39,10 @@ Each client or potential client should have one main point of contact with CityG
 If you have something to share that you think the whole company would be interested in, but you don’t need a response from anyone, post it to team.citygro.ws
 Email signatures should have your mobile phone number and the company twitter handle included
 
-### File storage
-
-- We use Dropbox as our storage system - anything permanent that isn't expected to change much / doesn't require collaboration
-- We use Google docs to collaborate on our short-term working docs, drafts, and personal work.  Store any CityGrows-related documents and work product on the Google Drive - and as we get bigger we’ll probably need an organizing principle for those documents.
-- We use GitHub to store any company-wide documents that will continue to evolve over time, and which require collaborative input from the whole team
 
 ## Routine and communication strategy
 ### Standup Meetings
-Standup meetings happen twice each week: Monday @ 2pm and Wednesday at 10am
+Standup meetings happen every morning @8:45 PT/
 - Standup takes place in [this Appear In room](https://appear.in/citygrows)
 - If you can make it, great, see you there!
 - Don't rearrange your schedule for standup. If you cannot make it, don't worry about it. Just remember to:
@@ -68,7 +63,7 @@ As a remote-first company, Slack is really important in helping us communicate. 
 We acknowledge though that messages and notifications are disruptive to flow, and so we ask that if you're working on something and prefer not to be interrupted, set yourself to away. That way everyone knows you're busy, but not MIA.
 
 ### Check-ins
-Everyone should try and have at least one 1:1 conversation with your manager (Catherine with Stephen, Vyki with Catherine, Stephen with an advisor who will be helpful)
+Everyone should try and have at least one 1:1 conversation with your manager and/or an outside expert adviser each week.
 We love hanging out and coworking in person, but we believe that our team can function effectively remotely.
 Our team members are recruited because of their ability to work independently with integrity and effectiveness. We don’t track hours, we track deliverables. How and when you work s up to you, as long as deliverables are met in a timely manner and any potential issues, questions, or problems are promptly brought to the team’s attention.
 
@@ -76,3 +71,28 @@ Our team members are recruited because of their ability to work independently wi
 Don’t assign “microtasks” to other people. It just makes everyone less productive.
 BAD: “Hey did you book that meeting with Emily?” “No, I don’t have her email. Can you send it to me?”
 GOOD: “Hey did you book that meeting with Emily?” “No, but I’m on it! Where can I find her email?”
+
+## Our communication and management tools
+We use many systems and tools to communicate and work productively - descriptions below are general guidelines.
+Communication:
+Email, Mailchimp - external communication
+Slack, Google Hangouts- internal communication
+Team blog - internal communication/ memorialized updates
+Google group - communication with investors and advisers
+Govtech blog, Medium, and social media accounts: Communication with the community
+
+### File storage
+- We use Google docs to collaborate on our short-term working docs, drafts, and personal work.
+- We use Dropbox for all non-document files. (Things outside of the scope of Text documents, sheets, slides, etc)
+- We use Keynote to create presentations, and Icloud to collaborate on them
+- We use GitHub to store permanent documents (like this one) that will continue to evolve over time
+
+## Productivity:
+Prosperworks - Sales and fundraising prospect tracking
+Trello - Retro and ToDo's
+Pivotal tracker - Development pipeline
+Hootsuite - Social media tracking and reporting
+Google analytics - Site and campaign performance
+Intercom - Acquisition tracking, auto-response and chat functions
+
+
