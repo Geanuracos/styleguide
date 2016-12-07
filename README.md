@@ -48,14 +48,14 @@ Email signatures should have your mobile phone number and the company twitter ha
 ## Routine and communication strategy
 ### Standup Meetings
 Standup meetings happen twice each week: Monday @ 2pm and Wednesday at 10am
-- Standup takes place in [this Google Hangout room](https://hangouts.google.com/hangouts/_/citygro.ws/citygrows)
+- Standup takes place in [this Appear In room](https://appear.in/citygrows)
 - If you can make it, great, see you there!
 - Don't rearrange your schedule for standup. If you cannot make it, don't worry about it. Just remember to:
   - Let us know not to wait for you
   - Share a text standup on Slack
 
 ### Retros
-Retro happens at 3pm on Fridays. During retro, we discuss things that happened over the past week
+Retro happens at 3pm on Fridays in the same room as standup. During retro, we discuss things that happened over the past week
 - What went well
 - What needs improvement
 - Action items
