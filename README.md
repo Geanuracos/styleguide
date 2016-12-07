@@ -76,10 +76,10 @@ Google group - communication with investors and advisers
 Govtech blog, Medium, and social media accounts: Communication with the community
 
 ### File storage
-- We use Google docs as our primary document repository and to collaborate on our short-term working docs, drafts, and personal work.  Store any CityGrows-related documents and work product on the Google Drive - and as we get bigger we’ll probably need an organizing principle for those documents.
-- We use Dropbox as our secondary storage system - anything permanent that isn't expected to change much / doesn't require collaboration, graphic files, etc.
+- We use Google docs to collaborate on our short-term working docs, drafts, and personal work.
+- We use Dropbox for all non-document files. (Things outside of the scope of Text documents, sheets, slides, etc)
 - We use Keynote to create presentations, and Icloud to collaborate on them
-- We use GitHub to store any company-wide documents that will continue to evolve over time, and which require collaborative input from the whole team
+- We use GitHub to store permanent documents (like this one) that will continue to evolve over time
 
 ## Productivity:
 Prosperworks - Sales and fundraising prospect tracking
