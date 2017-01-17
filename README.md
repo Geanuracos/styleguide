@@ -67,6 +67,9 @@ Everyone should try and have at least one 1:1 conversation with your manager and
 We love hanging out and coworking in person, but we believe that our team can function effectively remotely.
 Our team members are recruited because of their ability to work independently with integrity and effectiveness. We don’t track hours, we track deliverables. How and when you work s up to you, as long as deliverables are met in a timely manner and any potential issues, questions, or problems are promptly brought to the team’s attention.
 
+### Signoff
+Generally speaking, at least one other person should explicitly sign off on any significant decisions you make. That said, trust your instincts--waiting for the whole team to give approval for all decisions can be a real time sink.
+
 ## General dos and don'ts
 Don’t assign “microtasks” to other people. It just makes everyone less productive.
 BAD: “Hey did you book that meeting with Emily?” “No, I don’t have her email. Can you send it to me?”
