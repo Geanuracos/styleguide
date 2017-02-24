@@ -42,7 +42,7 @@ Email signatures should have your mobile phone number and the company twitter ha
 
 ## Routine and communication strategy
 ### Standup Meetings
-Standup meetings happen every morning @8:45 PT/
+Standup meetings happen every morning @ 9:30 PST/
 - Standup takes place in [this Appear In room](https://appear.in/citygrows)
 - If you can make it, great, see you there!
 - Don't rearrange your schedule for standup. If you cannot make it, don't worry about it. Just remember to:
