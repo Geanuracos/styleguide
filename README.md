@@ -29,6 +29,10 @@ It’s our goal to be consistent in the way we describe/ present CityGrows.  Tex
 Use good stylistic practices on grammar, formatting, and capitalization for anything that has a degree of permanence like formal documents, CRM tags, external emails, blog posts, etc. (as opposed to less permanent things like internal emails, Slack messages)
 If you’re picking a font, consider using PT Sans (the font used on our platform). It’s okay if another font works better, but generally PT Sans is a more appropriate choice than another sans-serif body font like Arial.
 
+### Specificity
+
+When speaking about the product or technology to another team member, try to be as specific as possible. If you encounter a bug, don't say "I tried to launch a process and it didn't work." Instead, say, "I was logged in as an admin user and when I clicked 'Get started' from the admin side, I got an error message saying something went wrong."
+
 ## Communication tools
 
 Try to avoid sending internal emails. Slack is almost always less disruptive and more effective.
