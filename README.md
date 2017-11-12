@@ -2,7 +2,7 @@
 
 All of our work at CityGrows is informed by our mission and our values.  If you’re not sure about how to address a situation, respond to something, or prioritize your activities, refer back to these foundational goals.  
 
-**Mission:** CityGrows will transform and improve the way local government works.
+**Mission:** CityGrows will transform and improve local government by building a dynamic, profitable, self-service SaaS software platform.
 
 **Vision:**  Through CityGrows, all local governments now have access to low-cost, effective tools that prioritize open data and transparency, while making government work better.  It’s as easy to track a business permit as a package, and that results in performance-based management and accountability. People feel more connected to government because government works better.  Government processes are faster, cheaper, and more flexible.
 
