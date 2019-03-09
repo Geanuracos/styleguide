@@ -2,19 +2,22 @@
 
 All of our work at CityGrows is informed by our mission and our values.  If you’re not sure about how to address a situation, respond to something, or prioritize your activities, refer back to these foundational goals.  
 
-**Mission:** CityGrows will transform and improve the way local government works.
+**Mission:** CityGrows will transform and improve the way government works.
 
-**Vision:**  Through CityGrows, all local governments now have access to low-cost, effective tools that prioritize open data and transparency, while making government work better.  It’s as easy to track a business permit as a package, and that results in performance-based management and accountability. People feel more connected to government because government works better.  Government processes are faster, cheaper, and more flexible.
+**Vision:**  Through CityGrows, all governments can have access to low-cost, effective workflow automation. CityGrows makes government work better for constituents, government employees, leaders and community stakeholders. Government processes move faster, are easier to complete, and therefore have improved compliance rates and provide increased revenue.  Governments pay less for software, but have access to higher-quality cloud-based tools that promote iteration and contstant improvements. Constituents and staff report higher satusfaction with government workflows, and people feel more connected to government. Open data and transparency (at the individual and aggregate levels), data portability, and interoperability are common across the most successful govtech companies, and CityGrows partners with other forward-thinking companies that share its values and commitment to the public sector.  We are continually improving our software to support performance-based management and accountability, and we support governments at all levels worldwide.   
 
 **Values:** CityGrows strives to be:
-Transparent/ open (corporate processes as well as open data)
-Collaborative/ Responsive/ communicative - empathize with and adapt to customer, team member, and community needs
-Fair/ equitable - 
-Iterative/ agile/ nimble
-Data-driven and evaluative/ experimental
+Transparent
+Accountable
+Accessible
+Collaborative
+Empathetic
+Equitable
+Iterative
+Data-driven 
+Positive
 Fun
-Compassionate/ kind
-Positive/ optimistic
+
 
 ## Communication style
 ### Tone
