@@ -15,6 +15,9 @@ Data-driven and evaluative/ experimental
 Fun
 Compassionate/ kind
 Positive/ optimistic
+Reflective of our community
+Interoperable
+Accessible
 
 ## Communication style
 ### Tone
