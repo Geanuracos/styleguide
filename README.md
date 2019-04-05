@@ -7,17 +7,19 @@ All of our work at CityGrows is informed by our mission and our values.  If youâ
 **Vision:**  Through CityGrows, all governments can have access to low-cost, effective workflow automation. CityGrows makes government work better for constituents, government employees, leaders and community stakeholders. Government processes move faster, are easier to complete, and therefore have improved compliance rates and provide increased revenue.  Governments pay less for software, but have access to higher-quality cloud-based tools that promote iteration and contstant improvements. Constituents and staff report higher satusfaction with government workflows, and people feel more connected to government. Open data and transparency (at the individual and aggregate levels), data portability, and interoperability are common across the most successful govtech companies, and CityGrows partners with other forward-thinking companies that share its values and commitment to the public sector.  We are continually improving our software to support performance-based management and accountability, and we support governments at all levels worldwide.   
 
 **Values:** CityGrows strives to be:
-Transparent
-Accountable
 Accessible
+Accountable
 Collaborative
+Compassionate / kind
+Data-driven 
 Empathetic
 Equitable
-Iterative
-Data-driven 
-Positive
 Fun
-
+Interoperable
+Iterative
+Positive / optimistic
+Reflective of our community
+Transparent
 
 ## Communication style
 ### Tone
